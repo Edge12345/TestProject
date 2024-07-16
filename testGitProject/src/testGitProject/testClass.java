@@ -6,6 +6,7 @@ public class testClass {
 
 		
 		System.out.println("Hello java");
+		System.out.println("Hello test branch");
 		
 		
 	}
